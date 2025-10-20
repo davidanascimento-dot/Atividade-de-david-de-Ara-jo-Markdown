@@ -1,4 +1,4 @@
-📚 Sistema de Gerenciamento de Biblioteca Escolar
+ Sistema de Gerenciamento de Biblioteca Escolar
 
 
 📋 Índice
@@ -122,6 +122,6 @@ Escola Tecnológica Avançada
 📝 Notas Finais
 Este projeto está em constante evolução! Sugestões e contribuições são sempre bem-vindas.
 
-⚠️ Importante: Este é um sistema fictício desenvolvido para fins educacionais.
+ Importante: Este é um sistema fictício desenvolvido para fins educacionais.
 
 #BibliotecaDigital #SistemaEscolar #InovaçãoEducacional
